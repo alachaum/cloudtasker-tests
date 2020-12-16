@@ -90,6 +90,7 @@ GEM
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
     ffi (1.13.1)
+    foreman (0.87.2)
     fugit (1.4.1)
       et-orbi (~> 1.1, >= 1.1.8)
       raabro (~> 1.4)
@@ -266,6 +267,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   cloudtasker (>= 0.11.rc2)
+  foreman
   jbuilder (~> 2.7)
   listen (~> 3.2)
   puma (~> 4.1)
