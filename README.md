@@ -9,6 +9,6 @@ foreman start
 ```
 
 Launch console with `rails c` then:
-```
+```ruby
 ExampleJob.perform_later('foo')
 ```
