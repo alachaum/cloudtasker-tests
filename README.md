@@ -3,7 +3,7 @@ Navigate to ct-test-52 or ct-test-60 then `bundle install`
 
 # Run
 
-Start web process and cloudtaker daemon
+Start web process and cloudtaker daemon with:
 ```
 foreman start
 ```
